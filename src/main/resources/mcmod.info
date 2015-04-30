@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "Lets Mod",
+  "description": "My first mod!",
+  "version": "1.7.10-1.0",
+  "mcversion": "${minecraft_version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "TheBloodDivision"
+  ],
+  "credits": "Pahimar & Minemaarten",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
